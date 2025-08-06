@@ -2,10 +2,10 @@
 This is the repository of Group 6's Medical Chatbot for Pulmonary Diseases
 which contains all tasks done by the GROUP6 INTERNS.
 # Contribution done by:
-Ikalone Udo ("TEAM HEAD")
-Essien Utenge
-Hussian Mohammed
-Lucky Aitah Ose
+Ikalone Udo ("TEAM HEAD"),
+Essien Utenge,
+Hussiana Mohammed,
+Lucky Aitah Oserubhen.
 
 Documentation for data:
 
